@@ -1,4 +1,4 @@
-## Intel ATmega Microprocessor Project
+## IoT Project With Intel ATmega Microprocessor  
 
 HardWare
 ---------
