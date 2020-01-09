@@ -1,0 +1,1 @@
+<Project name="IOTproject"><Folder name="src"><Folder name="include"><File path="src\include\adc.h"></File><File path="src\include\esp8266_01.h"></File><File path="src\include\uart.h"></File></Folder><File path="src\adc.c"></File><File path="src\esp8266_01.c"></File><File path="src\main.c"></File><File path="src\uart.c"></File></Folder></Project>
